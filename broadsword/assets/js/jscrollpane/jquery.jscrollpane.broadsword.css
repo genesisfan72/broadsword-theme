@@ -1,0 +1,38 @@
+
+.jspHorizontalBar,
+.jspVerticalBar,
+.jspTrack
+{
+	background: transparent;
+}
+
+.jspVerticalBar {
+	width: 8px;
+}
+
+.jspDrag
+{
+	opacity: .4; /* layer alpha */
+	-moz-border-radius: 4px / 3px;
+	-webkit-border-radius: 4px / 3px;
+	border-radius: 4px / 3px; /* border radius */
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box; /* prevents bg color from leaking outside the border */
+	background-color: #fff; /* layer fill content */
+}
+
+.jspTrack .jspActive,
+.jspTrack .jspHover,
+.jspDrag:hover
+{
+	background: #8B8B9F;
+}
+
+.jspVerticalBar>.jspDisabled,
+.jspVerticalBar>.jspDisabled:hover,
+.jspHorizontalBar>.jspDisabled,
+.jspHorizontalBar>.jspDisabled:hover
+{
+	background-color: transparent;
+}
