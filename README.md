@@ -9,3 +9,5 @@ The code was written in 2015 and looking back there are certainly things I would
 You can actually read about our first few hours on TF in an article that got written up on WPTavern, based on a conversation I'd started on Reddit. Check out the article here: https://wptavern.com/new-theme-development-company-makes-first-sale-minutes-after-being-approved-on-themeforest
 
 ![Broadsword Screenshot 1](woc-broadsword-s1.jpg?raw=True "Broadsword Screenshot 1")
+
+![Broadsword Screenshot 2](woc-broadsword-s2.jpg?raw=True "Broadsword Screenshot 2")
